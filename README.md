@@ -150,3 +150,6 @@ Whenever you push new commits to your main branch, Vercel automatically redeploy
 ## 📄 License
 
 This project is open-source and available for learning and personal use. Movie data and images are provided by [OMDb API](https://www.omdbapi.com/).
+## 👤 Author
+
+**Harsh Vardhan Maurya**
