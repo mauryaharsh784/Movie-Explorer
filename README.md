@@ -15,6 +15,23 @@ Search for any movie, browse a curated set of popular titles, and view posters, 
 - 📱 **Fully responsive** — 2 columns on mobile, 3 on tablet, 4–5 on desktop
 - 🎨 Hover animations, a cinema-inspired color palette, and clean, modern spacing
 
+  ## 📸 Screenshots
+
+**Search results**
+
+![Search results](./screenshots/search-results.png)
+
+
+
+
+
+
+**Popular movies grid (default view)**
+
+![Popular movies grid](./screenshots/popular-movies.png)
+
+
+
 ## 🛠️ Tech Stack
 
 | Tool | Purpose |
