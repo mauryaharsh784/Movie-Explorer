@@ -32,6 +32,14 @@ Search for any movie, browse a curated set of popular titles, and view posters, 
 
 
 
+
+## 🌐 Live Demo
+
+🔗 **Live Application:** https://movie-explorer-navy-two.vercel.app/
+
+📂 **GitHub Repository:** https://github.com/mauryaharsh784/movie-explorer
+
+
 ## 🛠️ Tech Stack
 
 | Tool | Purpose |
